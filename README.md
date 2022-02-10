@@ -1,13 +1,14 @@
 # Android_Club_FFCS
 ## **Assignment-4**
 ## **Vidhi Ajbani**
-### Run Procedure
-##### Issue these commands on your favourite terminal
-```
-cd (to the created directory) 
-npm install or yarn add
-npx react-native run-android
-```
-### **Screen Shots**
-  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Android_Club_FFCS/master/img/Login_page.jpeg" width="40%" height="600">
-  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Android_Club_FFCS/master/img/Password_encryption.jpeg"  width="40%" height="600">
+
+#**Screen Shots**
+### **Dashboard**
+    <img src= "https://raw.githubusercontent.com/VidhiAjbani/Banking_UI/master/assets/Dashboard.jpeg" width="40%" height="600">
+### **Scroll View**
+  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Banking_UI/master/assets/ScrollView.jpeg" width="40%" height="600">
+### **Modal**
+  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Banking_UI/master/assets/Modal.jpeg" width="40%" height="600">
+### **Activity Indicator**
+  
+  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Banking_UI/master/assets/ActivityIndicator.jpeg"  width="40%" height="600">
