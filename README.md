@@ -3,9 +3,10 @@
 ## **Vidhi Ajbani**
 
 # **Screen Shots**
+
 ### **Dashboard**
 
-    <img src= "https://raw.githubusercontent.com/VidhiAjbani/Banking_UI/master/assets/Dashboard.jpeg" width="40%" height="600">
+  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Banking_UI/master/assets/Dashboard.jpeg" width="40%" height="600">
 ### **Scroll View**
   <img src= "https://raw.githubusercontent.com/VidhiAjbani/Banking_UI/master/assets/ScrollView.jpeg" width="40%" height="600">
 ### **Modal**
